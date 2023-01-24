@@ -1,0 +1,17 @@
+{
+    "name": "danieliamorim/testecomposer",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Danieliamorim\\Testecomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danieli",
+            "email": "danieliamorim.o@outlook.com"
+        }
+    ],
+    "require": {}
+}
