@@ -13,5 +13,8 @@
             "email": "danieliamorim.o@outlook.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit" : "^9.0"
+    }
 }
